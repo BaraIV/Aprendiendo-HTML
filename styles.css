@@ -1,18 +1,48 @@
-body{
+body.inicio{
   font-family: serif;
   font-size: 20px; 
   background-color: #ea6b3f;
   padding: 20px;
 } 
-.boton{
+body.sillas{
+  font-family: Helvetica;
+  font-size: 25px;
+  background-color: #;
+  padding:30px;
+}
+body.coches{
+    font-family: Georgia;
+  font-size: 25px;
+  background-color: #;
+  padding:30px;
+}
+body.inicio.boton{
   background-color: #ecd7cf;
   font-size: 17px;
   font-family: fantasy;
   padding: 20px;
   border-radius:5px;
   cursor:pointer;
+  text-decoration: none;
+  display: inline-block;
 }
-.contenedor{
+body.inicio.contenedor{
+  background-color: white;
+  margin: 50px auto;
+  width: 400px; 
+  padding: 30px;
+  border-radius: 15px;
+  text-align:center;
+}
+body.sillas.contenedor{
+  background-color: white;
+  margin: 50px auto;
+  width: 400px; 
+  padding: 30px;
+  border-radius: 15px;
+  text-align:center;
+}
+body.coches.contenedor{
   background-color: white;
   margin: 50px auto;
   width: 400px; 
