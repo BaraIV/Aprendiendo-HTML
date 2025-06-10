@@ -4,11 +4,13 @@ body{
   background-color: #ea6b3f;
   padding: 20px;
 } 
-button{
+.boton{
   background-color: #ecd7cf;
   font-size: 17px;
   font-family: fantasy;
   padding: 20px;
+  border-radius:5px;
+  cursor:pointer;
 }
 .contenedor{
   background-color: white;
@@ -18,3 +20,4 @@ button{
   border-radius: 15px;
   text-align:center;
 }
+
