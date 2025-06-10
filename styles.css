@@ -10,3 +10,11 @@ button{
   font-family: fantasy;
   padding: 20px;
 }
+.contenedor{
+  background-color: white;
+  margin: 50px auto;
+  width: 400px; 
+  padding: 30px;
+  border-radius: 15px;
+  text-aling:center;
+}
