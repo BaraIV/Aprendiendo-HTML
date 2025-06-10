@@ -1,10 +1,12 @@
 body{
   font-family: serif;
-  font-size: 20; 
+  font-size: 20px; 
   backgroung-color: #ea6b3f;
+  padding: 20px;
 } 
 button{
   backgroung-color: #ecd7cf;
-  font-size: 17;
+  font-size: 17px;
   font-family: fantasy;
+  padding: 20px;
 }
